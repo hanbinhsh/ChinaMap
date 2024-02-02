@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/map">
+        <file>src/image/ChinaMap.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>src/image/unchecked.png</file>
+        <file>src/image/checked.png</file>
+        <file>src/icon/map.ico</file>
+        <file>src/image/dark.png</file>
+        <file>src/image/light.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>src/qss/dark.qss</file>
+        <file>src/qss/light.qss</file>
+    </qresource>
+    <qresource prefix="/loading">
+        <file>src/image/loading.gif</file>
+    </qresource>
+    <qresource prefix="/translation">
+        <file>src/translations/qtbase_zh_CN.qm</file>
+    </qresource>
+</RCC>
