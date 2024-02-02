@@ -124,7 +124,7 @@ ChinaMap::ChinaMap(QWidget *parent): QMainWindow(parent), ui(new Ui::ChinaMap){/
     db.setPort(3306);
     db.setDatabaseName("ChinaMap");
     db.setUserName("root");
-    db.setPassword("1024622242");
+    db.setPassword("");//enter your password
     bool ok = db.open();
     if (ok){//连接成功
         //QMessageBox::information(this, "infor", "success");
