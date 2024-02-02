@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 12.0.1, 2024-01-31T22:59:53. -->
+<!-- Written by QtCreator 12.0.1, 2024-02-03T02:12:33. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -581,6 +581,7 @@
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">I:/study/homework/DataStructure/reportfinal/build-Map-Desktop_x86_windows_msys_pe_64bit-Release</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>

@@ -1,2 +1,5 @@
 # ChinaMap
 ChinaMap
+
+使用Qt6 Desktop_x86_windows_msvc2022_pe_64bit-Release
+使用前请创建本地数据库
